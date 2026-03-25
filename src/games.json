@@ -1,0 +1,51 @@
+[
+  {
+    "id": "frontwars",
+    "title": "FrontWars",
+    "thumbnail": "https://imgs.crazygames.com/frontwars-io_16x9/20251027025421/frontwars-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "url": "https://frontwars.io/?crazygames",
+    "category": "Shooter"
+  },
+  {
+    "id": "veck-io",
+    "title": "Veck.io",
+    "thumbnail": "https://imgs.crazygames.com/veck-io_16x9/20251204101357/veck-io_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "url": "https://veck.io/?msn=true&msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIzMENBNjlEN0M0NDc2MzE4MUU5MzdFRjBDNTZFNjJBOCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjltejNzZHB0cXdtMiIsInZhbHVlIjp7fX19",
+    "category": "Action"
+  },
+  {
+    "id": "bonk-is-back",
+    "title": "Bonk.io",
+    "thumbnail": "https://bonk.io/graphics/thumb_grapple_nb.jpg",
+    "url": "https://bonk.io/",
+    "category": "Action"
+  },
+  {
+    "id": "fnaf-epstein",
+    "title": "Five Nights at Epsteins",
+    "thumbnail": "https://i.ytimg.com/vi/lS02HW0OVb4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2MDYDtxL4aimOtvhvLzBgymZzNA",
+    "url": "https://fivenightsatepsteins.org/fivenightsatepsteins-online/embed",
+    "category": "Horror"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "thumbnail": "https://www.coolmathgames.com/sites/default/files/MotoX3M_OG-logo.jpg",
+    "url": "https://playgama.cdn.msnfun.com/9pfc45g1xhp7/v3/index.html?msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIzMENBNjlEN0M0NDc2MzE4MUU5MzdFRjBDNTZFNjJBOCIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjlwZmM0NWcxeGhwNyIsInZhbHVlIjp7fX19",
+    "category": "Racing"
+  },
+  {
+    "id": "retro-games",
+    "title": "Retro Bowl",
+    "thumbnail": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/retro-bowl-tag-cover.png?q=50&fit=crop&w=480&h=600&dpr=1.5",
+    "url": "https://iliill1.github.io/retro/",
+    "category": "Classic"
+  },
+  {
+    "id": "noahs-tutoring",
+    "title": "Noah's Tutoring",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhka0geaqO2dIGShPkc1QFck3QehNhviJ6kw&s",
+    "url": "https://noahstutoring.academy/",
+    "category": "Education"
+  }
+]

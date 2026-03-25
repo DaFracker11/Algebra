@@ -75,7 +75,7 @@ export default function App() {
               <div className="bg-slate-900 p-1.5 rounded-md">
                 <Calculator className="w-5 h-5 text-white" />
               </div>
-              <h1 className="text-lg font-bold tracking-tight text-slate-900 uppercase italic">AlgebraSolver</h1>
+              <h1 className="text-lg font-bold tracking-tight text-slate-900 italic">Algebra Solver</h1>
             </div>
             
             <div className="flex items-center gap-6 text-[10px] font-black uppercase tracking-widest text-slate-400">
@@ -197,7 +197,7 @@ export default function App() {
             <div className="bg-orange-500 p-2 rounded-lg group-hover:rotate-12 transition-transform">
               <Gamepad2 className="w-6 h-6 text-black" />
             </div>
-            <h1 className="text-xl font-bold tracking-tighter italic">AlgebraSolver</h1>
+            <h1 className="text-xl font-bold tracking-tighter italic">Algebra Solver</h1>
           </div>
 
           <div className="relative flex-1 max-w-md">
@@ -358,7 +358,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-2 opacity-40">
             <Gamepad2 className="w-5 h-5" />
-            <span className="text-xs font-bold tracking-tighter italic">AlgebraSolver &copy; 2026</span>
+            <span className="text-xs font-bold tracking-tighter italic">Algebra Solver &copy; 2026</span>
           </div>
           <div className="flex gap-8 text-[10px] font-bold uppercase tracking-widest text-white/20">
             <a href="#" className="hover:text-orange-500 transition-colors">Terms</a>
